@@ -3,12 +3,22 @@
 <key>CFBundleURLTypes</key>
 <array>
   <dict>
+  </dict>
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
   <key>CFBundleURLSchemes</key>
   <array>
     <string>fbAPP-ID</string>
   </array>
   </dict>
 </array>
+<key>FacebookAppID</key>
+<string>APP-ID</string>
+<key>FacebookClientToken</key>
+<string>CLIENT-TOKEN</string>
+<key>FacebookDisplayName</key>
+<string>APP-NAME</string></array>
 <key>FacebookAppID</key>
 <string>APP-ID</string>
 <key>FacebookClientToken</key>
